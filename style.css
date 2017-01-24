@@ -8,7 +8,7 @@ body {
   text-align: center;
  /* background-image: url("path/to/your/image"); */
 
-  background-image: url("ahittelm.github.io/candle.jpg");
+  background-image: url("https://lh4.googleusercontent.com/0SdO3fvBwSV7Pl9F3qrEUdUIMtu1rdMfHaAm5cB__CTRCFWfnIlrAGxB42-vwkLoaKDjf0SS-WPqO6M=w1922-h1560-rw");
   background-size: cover;
   text-align: cover;
 }
@@ -18,11 +18,18 @@ body {
   color: white; /* Or your choice color */
 }
 
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
 .container p {
   margin: auto;
   max-width: 700px;
   padding: 10px;
-  color: #555;
+  color: grey ;
+  text-align: center;
+  font-size: 30px;
 }
 
 /* Style the list */
@@ -41,7 +48,7 @@ ul.tab li {float: left;}
 /* Style the links inside the list items */
 ul.tab li a {
     display: inline-block;
-    color: black;
+    color: #40366C    ;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -61,4 +68,13 @@ ul.tab li a:focus, .active {background-color: #ccc;}
     padding: 6px 12px;
     border: 1px solid #ccc;
     border-top: none;
+}
+
+.projects{
+	margin: auto;
+  	max-width: 700px;
+  	padding: 10px;
+  	color: #797492  ;
+  	text-align: center;
+  	font-size: 25px;
 }
