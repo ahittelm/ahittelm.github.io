@@ -3,9 +3,9 @@
         <title>amanda's page</title>
         <link rel="stylesheet" href="style.css" />
         <ul class="tab">
-		  <li><a href="amandahittelman.me/projects">projects</a>
-		  <li><a href="amandahittelman.me/photography">photography</a>
-		  <li><a href="amandahittelman.me/art">art</a>	
+		  <a href="amandahittelman.me/projects">projects</a>
+		  <a href="amandahittelman.me/photography">photography</a>
+		  <a href="amandahittelman.me/art">art</a>	
 		</ul>
     </head>
     <body>
