@@ -1,5 +1,5 @@
 <html>
-
+ 	<head>
         <title>amanda's page</title>
         <link rel="stylesheet" href="style.css" />
 	<ul class="tab">
@@ -41,4 +41,4 @@
         </div>
 
     </body>
-</html>
+
