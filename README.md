@@ -1,5 +1,5 @@
 <html>
-    <head>
+
         <title>amanda's page</title>
         <link rel="stylesheet" href="style.css" />
 
@@ -7,7 +7,7 @@
 			  <li><a href="#middle">photography</a>
 			  <li><a href="#bottom">art</a>	
 
-    </head>
+ 
     <body>
     	<div class = "hero">
         	<h1>amanda hittelman</h1>
