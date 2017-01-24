@@ -29,7 +29,7 @@
 	    	<br/>
               	Katsu the Dog
             </p>
-	    <img src="ahittelm.github.io/KatsuHome.jpg"  width="187" height="344">
+	    <img src="ahittelm.github.io/KatsuHome.jpg"  width="247" height="454">
 	    
 	    <p>
 	    	Katsu is an iOS application that assists in determining the current mental state of a child through a fun and
