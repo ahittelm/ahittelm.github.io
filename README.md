@@ -2,10 +2,10 @@
 
         <title>amanda's page</title>
         <link rel="stylesheet" href="style.css" />
-
-	<li><a href="projects.amandahittelman.me">projects</a>
-	<li><a href="#middle">photography</a>
-	<li><a href="#bottom">art</a>	
+	<ul class="tab">
+		<li><a href="projects.amandahittelman.me">projects</a>
+		<li><a href="#middle">photography</a>
+		<li><a href="#bottom">art</a>	
 
  
     <body>
