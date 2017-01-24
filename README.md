@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <title>The Gnat and the Bull</title>
