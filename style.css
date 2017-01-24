@@ -23,9 +23,7 @@ html, body {
   margin: 0;
 }
 
-.tab, a{
-	display:inline;
-}
+
 
 .container p {
   margin: auto;
@@ -44,6 +42,7 @@ ul.tab {
     overflow: hidden;
     border: 1px solid #ccc;
     background-color: #f1f1f1;
+    display:inline;
 }
 
 /* Float the list items side by side */
