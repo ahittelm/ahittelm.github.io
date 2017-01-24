@@ -3,6 +3,10 @@
         <title>amanda's page</title>
         <link rel="stylesheet" href="style.css" />
 
+			  <li><a href="#first">projects</a>
+			  <li><a href="#middle">photography</a>
+			  <li><a href="#bottom">art</a>	
+
     </head>
     <body>
     	<div class = "hero">
