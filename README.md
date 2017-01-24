@@ -15,12 +15,10 @@
 	
         <div class = "container">
             <p>
-           	  <br/>
               <br/>
               <br/>
-              <br/>
-              Software  Art Design
-              <br/> <br/> <br/> <br/>
+              software engineer, designer, artist
+              <br/> <br/>
             </p>
         </div>
 	
