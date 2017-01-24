@@ -4,8 +4,8 @@
         <link rel="stylesheet" href="style.css" />
 	<ul class="tab">
 		<li><a href="projects.amandahittelman.me">projects</a>
-		<li><a href="#middle">photography</a>
-		<li><a href="#bottom">art</a>	
+		<li><a href="#middle">art</a>
+		<li><a href="#bottom">photography</a>	
 
  
     <body>
@@ -24,7 +24,7 @@
             </p>
         </div>
 	
-        <div class = "projects">Projects
+        <div class = "projects">projects
             <p id = "first">
 	    	<br/>
               	Katsu the Dog
@@ -38,15 +38,18 @@
 	    Katsu is an iOS application that assists in determining the current mental state of a child through a fun and interactive set of questions. The questions given to the child is customizable depending on the mental health issue or state the child is in. Every time Katsu becomes hungry, the child is prompted to open the app and answer the questions to make Katsu full of cabbages again.
         </div>
 	
-	<div class = "photography">
-            <p id = "middle">photgraphy
+
+	
+	<div class = "art">
+            <p id = "middle">art
             </p>
         </div>
 	
-	<div class = "art">
-            <p id = "bottom">art
+	<div class = "photography">photography
+            <p id = "bottom">
+	  	<img src="ahittelm.github.io/1.jpg"  width="300" height="200">
+
             </p>
         </div>
-
     </body>
 
