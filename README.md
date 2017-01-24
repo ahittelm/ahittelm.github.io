@@ -29,10 +29,10 @@
 	    	<br/>
               	Katsu the Dog
             </p>
-	    <img src="ahittelm.github.io/KatsuHome.jpg"  width="247" height="454">
-	    <img src="ahittelm.github.io/KatsuQ.jpg"  width="247" height="454">
-	    <img src="ahittelm.github.io/KatsuEnd.jpg"  width="247" height="454">
-	    <img src="ahittelm.github.io/KatsuEdit.jpg"  width="247" height="454">
+	    <img src="ahittelm.github.io/KatsuHome.jpg"  width="197" height="363">
+	    <img src="ahittelm.github.io/KatsuQ.jpg"  width="197" height="363">
+	    <img src="ahittelm.github.io/KatsuEnd.jpg"  width="197" height="363">
+	    <img src="ahittelm.github.io/KatsuEdit.jpg"  width="197" height="363">
 
 
 	    
