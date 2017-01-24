@@ -13,6 +13,7 @@
         	<h1>Amanda Hittelman</h1>
         </div>
         <div class = "container">
+		<img src="\images\emoticons\cool.png">
             <p>
               Software & Art Design
             </p>
