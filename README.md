@@ -12,6 +12,7 @@
     	<div class = "hero">
         	<h1>amanda hittelman</h1>
         </div>
+	
         <div class = "container">
             <p>
            	  <br/>
@@ -22,11 +23,21 @@
               <br/> <br/> <br/> <br/>
             </p>
         </div>
+	
         <div class = "projects">
             <p id = "first">Projects
               Katsu
             </p>
-
+        </div>
+	
+	<div class = "photography">
+            <p id = "middle">Projects
+            </p>
+        </div>
+	
+	<div class = "art">
+            <p id = "bottom">Projects
+            </p>
         </div>
 
     </body>
