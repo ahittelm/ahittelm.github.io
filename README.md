@@ -2,11 +2,13 @@
     <head>
         <title>amanda's page</title>
         <link rel="stylesheet" href="style.css" />
-        <ul class="tab">
-		  <li><a href="#first">projects</a>
-		  <li><a href="#middle">photography</a>
-		  <li><a href="#bottom">art</a>	
-	</ul>
+	<nav>
+		<ul class="tab">
+			  <li><a href="#first">projects</a>
+			  <li><a href="#middle">photography</a>
+			  <li><a href="#bottom">art</a>	
+		</ul>
+	</nav>
     </head>
     <body>
     	<div class = "hero">
