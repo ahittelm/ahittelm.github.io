@@ -6,7 +6,7 @@
 		  <li><a href="#first">projects</a>
 		  <li><a href="#middle">photography</a>
 		  <li><a href="#bottom">art</a>	
-		</ul>
+	</ul>
     </head>
     <body>
     	<div class = "hero">
@@ -31,12 +31,12 @@
         </div>
 	
 	<div class = "photography">
-            <p id = "middle">Projects
+            <p id = "middle">photgraphy
             </p>
         </div>
 	
 	<div class = "art">
-            <p id = "bottom">Projects
+            <p id = "bottom">art
             </p>
         </div>
 
