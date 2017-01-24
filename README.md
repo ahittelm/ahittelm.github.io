@@ -31,7 +31,7 @@
             </p>
 	    <p>
 	    	Katsu is an iOS application that assists in determining the current mental state of a child through a fun and
-interactive set of questions. When answering questions, children are determined to finish the question to finally feed Katsu the Dog his cabbages.
+interactive set of questions. The questions given to the child is customizable depending on the mental health issue or state the child is in. Every time Katsu becomes hungry, the child is prompted to open the app and answer the questions to make Katsu full of cabbages again.
         </div>
 	
 	<div class = "photography">
