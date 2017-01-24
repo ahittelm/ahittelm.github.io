@@ -2,13 +2,7 @@
     <head>
         <title>amanda's page</title>
         <link rel="stylesheet" href="style.css" />
-	<nav>
-		<ul class="tab">
-			  <li><a href="#first">projects</a>
-			  <li><a href="#middle">photography</a>
-			  <li><a href="#bottom">art</a>	
-		</ul>
-	</nav>
+
     </head>
     <body>
     	<div class = "hero">
@@ -21,7 +15,7 @@
               <br/>
               <br/>
               <br/>
-              Software & Art Design
+              Software  Art Design
               <br/> <br/> <br/> <br/>
             </p>
         </div>
