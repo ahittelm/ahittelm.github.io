@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>The Gnat and the Bull</title>
+        <title>amanda's page</title>
         <link rel="stylesheet" href="style.css" />
         <ul class="tab">
 		  <li><a href="javascript:void(0)" class="tablinks" onclick="openCity(event, 'London')">London</a></li>
