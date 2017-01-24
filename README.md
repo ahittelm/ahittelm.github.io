@@ -24,10 +24,14 @@
             </p>
         </div>
 	
-        <div class = "projects">
-            <p id = "first">Projects
-              Katsu
+        <div class = "projects">Projects
+            <p id = "first">
+	    	<br/>
+              	Katsu the Dog
             </p>
+	    <p>
+	    	Katsu is an iOS application that assists in determining the current mental state of a child through a fun and
+interactive set of questions. When answering questions, children are determined to finish the question to finally feed Katsu the Dog his cabbages.
         </div>
 	
 	<div class = "photography">
