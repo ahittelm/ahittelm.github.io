@@ -1,0 +1,67 @@
+body {
+  font-family: "Helvetica", sans-serif;
+}
+
+.hero {
+  padding-top: 20vh;
+  padding-bottom: 20vh;
+  text-align: center;
+  background-color: gray; /* Or your choice color */
+   /* background-image: url("path/to/your/image"); */
+  background-image: url("https://lh4.googleusercontent.com/0SdO3fvBwSV7Pl9F3qrEUdUIMtu1rdMfHaAm5cB__CTRCFWfnIlrAGxB42-vwkLoaKDjf0SS-WPqO6M=w1922-h1560-rw");
+  background-size: cover;
+}
+
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+.hero h1 {
+  color: white; /* Or your choice color */
+}
+
+.container p {
+  margin: auto;
+  max-width: 700px;
+  padding: 10px;
+  color: #555;
+}
+
+/* Style the list */
+ul.tab {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Float the list items side by side */
+ul.tab li {float: left;}
+
+/* Style the links inside the list items */
+ul.tab li a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of links on hover */
+ul.tab li a:hover {background-color: #ddd;}
+
+/* Create an active/current tablink class */
+ul.tab li a:focus, .active {background-color: #ccc;}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
