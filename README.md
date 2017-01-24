@@ -48,13 +48,17 @@
 	<div class = "photography">photography
             <p id = "bottom">
 	  	<img src="ahittelm.github.io/1.jpg"  width="300" height="200">
-	  	<img src="ahittelm.github.io/2.jpg"  width="200" height="300">
 	  	<img src="ahittelm.github.io/3.jpg"  width="300" height="200">
-	  	<img src="ahittelm.github.io/4.jpg"  width="200" height="300">
 	  	<img src="ahittelm.github.io/5.jpg"  width="300" height="200">
 	  	<img src="ahittelm.github.io/5 (1).jpg"  width="300" height="200">
 	  	<img src="ahittelm.github.io/7.jpg"  width="300" height="200">
-	  	<img src="ahittelm.github.io/9.jpg"  width="300" height="200">
+	  	<img src="ahittelm.github.io/9.jpg"  width="300" height="200">	  
+		<img src="ahittelm.github.io/12.jpg"  width="200" height="300">	
+		<img src="ahittelm.github.io/2.jpg"  width="200" height="300">	  	
+		<img src="ahittelm.github.io/4.jpg"  width="200" height="300">
+
+
+
 
             </p>
 
