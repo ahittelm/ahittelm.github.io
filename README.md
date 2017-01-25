@@ -32,7 +32,7 @@
 	
 
 	
-	<div class = "art">art
+	<div class = "art"><br><br>art
             <p id = "middle">
 	    	<img src="ahittelm.github.io/Scorpion-gif-1.gif"  width="64" height="64">
 	  	<img src="ahittelm.github.io/Copy of Annie League of Legends.jpg"  width="150" height="200">
