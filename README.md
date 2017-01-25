@@ -2,10 +2,6 @@
  	<head>
         <title>amanda's page</title>
         <link rel="stylesheet" href="style.css" />
-	<ul class="tab">
-		<li><a href="projects.amandahittelman.me">projects</a>
-		<li><a href="#middle">art</a>
-		<li><a href="#bottom">photography</a>	
 
  
     <body>
@@ -20,7 +16,6 @@
               software engineer, designer, artist
               <br/> <br/>
             </p>
-        </div>
 	
         <div class = "projects">projects
             <p id = "first">
@@ -34,7 +29,6 @@
 	   
 	    <p>
 	    Katsu is an iOS application that assists in determining the current mental state of a child through a fun and interactive set of questions. The questions given to the child is customizable depending on the mental health issue or state the child is in. Every time Katsu becomes hungry, the child is prompted to open the app and answer the questions to make Katsu full of cabbages again.
-        </div>
 	
 
 	
