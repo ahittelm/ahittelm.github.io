@@ -17,8 +17,9 @@
               <br/> <br/>
             </p>
 	
-        <div class = "projects">projects
+        <div class = "projects">
             <p id = "first">
+	    	projects
 	    	<br/>
               	Katsu the Dog
             </p>
