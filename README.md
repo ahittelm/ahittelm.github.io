@@ -1,4 +1,9 @@
 <html>
+	<style>
+	body {
+	    background-color: #CFD5D6;
+	}
+	</style>
  	<head>
         <title>amanda's page</title>
         <link rel="stylesheet" href="style.css" />
