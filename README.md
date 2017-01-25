@@ -17,7 +17,7 @@
               <br/> <br/>
             </p>
 	<div class = "projName">
-		<br>
+		<br><br>
 		projects
 		<br>
         <div class = "projects">
@@ -36,7 +36,7 @@
 	
 
 	
-	<div class = "art"><br><br>art
+	<div class = "art"><br><br>art<br>
             <p id = "middle">
 	    	<img src="ahittelm.github.io/Scorpion-gif-1.gif"  width="64" height="64">
 	  	<img src="ahittelm.github.io/Copy of Annie League of Legends.jpg"  width="150" height="200">
@@ -47,7 +47,7 @@
 		<img src="ahittelm.github.io/Scorpion Fish.jpg"  width="250" height="200">
             </p>
         </div>
-	<div class = "photography"><br><br>photography
+	<div class = "photography"><br><br>photography<br>
             <p id = "bottom">
 	  	<img src="ahittelm.github.io/1.jpg"  width="300" height="200">
 	  	<img src="ahittelm.github.io/3.jpg"  width="300" height="200">
