@@ -16,7 +16,7 @@
               software engineer, designer, artist
               <br/> <br/>
             </p>
-	
+	<div class = "projName">
         <div class = "projects">
             <p id = "first">
 	    	<br>
