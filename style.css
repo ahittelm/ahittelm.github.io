@@ -79,7 +79,7 @@ ul.tab li a:focus, .active {background-color: #ccc;}
   	text-align: center;
   	font-size: 30px;	
 }
-.projects{
+.projects p{
 	margin: auto;
   	max-width: 700px;
   	padding: 10px;
