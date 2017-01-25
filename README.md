@@ -44,7 +44,7 @@
 		<img src="ahittelm.github.io/Scorpion Fish.jpg"  width="250" height="200">
             </p>
         </div>
-	<div class = "photography">photography
+	<div class = "photography"><br><br>photography
             <p id = "bottom">
 	  	<img src="ahittelm.github.io/1.jpg"  width="300" height="200">
 	  	<img src="ahittelm.github.io/3.jpg"  width="300" height="200">
