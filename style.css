@@ -29,7 +29,7 @@ html, body {
   margin: auto;
   max-width: 700px;
   padding: 10px;
-  color:#B09CAC;
+  color:#A29FC6  ;
   text-align: center;
   font-size: 30px;
 }
@@ -75,7 +75,7 @@ ul.tab li a:focus, .active {background-color: #ccc;}
 	margin: auto;
   	max-width: 700px;
   	padding: 10px;
-  	color: #DAB4CC   ;
+  	color: #D2A7BD    ;
   	text-align: center;
   	font-size: 30px;	
 }
@@ -83,7 +83,7 @@ ul.tab li a:focus, .active {background-color: #ccc;}
 	margin: auto;
   	max-width: 700px;
   	padding: 10px;
-  	color: #B4D3DC;
+  	color: #A3CBD1  ;
   	text-align: center;
   	font-size: 30px;
 }
@@ -92,7 +92,7 @@ ul.tab li a:focus, .active {background-color: #ccc;}
 	margin: auto;
   	max-width: 700px;
   	padding: 10px;
-  	color: #DAB4CC   ;
+  	color: #D2A7BD     ;
   	text-align: center;
   	font-size: 30px;
 }
@@ -101,7 +101,7 @@ ul.tab li a:focus, .active {background-color: #ccc;}
 	margin: auto;
   	max-width: 700px;
   	padding: 10px;
-  	color: #DAB4CC  ;
+  	color: #D2A7BD    ;
   	text-align: center;
   	font-size: 30px;
 }
