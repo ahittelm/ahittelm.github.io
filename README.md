@@ -40,7 +40,7 @@
 	  	<img src="ahittelm.github.io/Heart.jpg"  width="220" height="200">
 	  	<img src="ahittelm.github.io/Pikachu2.jpg"  width="200" height="200">
 	  	<img src="ahittelm.github.io/Stranger man.jpg"  width="170" height="200">	  
-		<img src="ahittelm.github.io/Scorpion Fish.jpg"  width="200" height="200">
+		<img src="ahittelm.github.io/Scorpion Fish.jpg"  width="250" height="200">
             </p>
         </div>
 	<div class = "photography">photography
