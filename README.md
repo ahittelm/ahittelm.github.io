@@ -17,10 +17,12 @@
               <br/> <br/>
             </p>
 	<div class = "projName">
+		<br>
+		projects
+		<br>
         <div class = "projects">
             <p id = "first">
-	    	<br>
-		projects
+	    	
 	    	<br/>
               	Katsu the Dog
             </p>
