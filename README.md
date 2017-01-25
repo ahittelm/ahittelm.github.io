@@ -37,10 +37,10 @@
 	    	<img src="ahittelm.github.io/Scorpion-gif-1.gif"  width="64" height="64">
 	  	<img src="ahittelm.github.io/Copy of Annie League of Legends.jpg"  width="150" height="200">
 	  	<img src="ahittelm.github.io/Cabbage2.jpg"  width="250" height="200">
-	  	<img src="ahittelm.github.io/Heart.jpg"  width="220" height="180">
-	  	<img src="ahittelm.github.io/Pikachu2.jpg"  width="200" height="210">
+	  	<img src="ahittelm.github.io/Heart.jpg"  width="220" height="200">
+	  	<img src="ahittelm.github.io/Pikachu2.jpg"  width="200" height="200">
 	  	<img src="ahittelm.github.io/Stranger man.jpg"  width="170" height="200">	  
-		<img src="ahittelm.github.io/Scorpion Fish.jpg"  width="200" height="170">
+		<img src="ahittelm.github.io/Scorpion Fish.jpg"  width="200" height="200">
             </p>
         </div>
 	<div class = "photography">photography
