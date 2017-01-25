@@ -71,7 +71,14 @@ ul.tab li a:focus, .active {background-color: #ccc;}
     border: 1px solid #ccc;
     border-top: none;
 }
-
+.projName{
+	margin: auto;
+  	max-width: 700px;
+  	padding: 10px;
+  	color: #797492  ;
+  	text-align: center;
+  	font-size: 30px;	
+}
 .projects{
 	margin: auto;
   	max-width: 700px;
@@ -82,9 +89,19 @@ ul.tab li a:focus, .active {background-color: #ccc;}
 }
 
 .art{
-	font-size: 30px;
+	margin: auto;
+  	max-width: 700px;
+  	padding: 10px;
+  	color: #797492  ;
+  	text-align: center;
+  	font-size: 30px;
 }
 
 .photography{
-	font-size: 30px;
+	margin: auto;
+  	max-width: 700px;
+  	padding: 10px;
+  	color: #797492  ;
+  	text-align: center;
+  	font-size: 30px;
 }
