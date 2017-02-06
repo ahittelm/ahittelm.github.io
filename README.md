@@ -37,7 +37,7 @@
 	    <img src="ahittelm.github.io/KatsuEnd.jpg"  width="197" height="363">
 	   
 	    <p>
-	    Katsu is an iOS application that assists in determining the current mental state of a child through a fun and interactive set of questions. The questions given to the child is customizable depending on the mental health issue or state the child is in. Every time Katsu becomes hungry, the child is prompted to open the app and answer the questions to make Katsu full of cabbages again. (all art in the app is original content!)
+	    Katsu is an iOS application that assists in determining the current mental state of a child through a fun and interactive set of questions. The questions given to the child is customizable depending on the mental health issue or state the child is in. Every time Katsu becomes hungry, the child is prompted to open the app and answer the questions to make Katsu full of cabbages again. (all art in the app is original content)
 
 	
 
